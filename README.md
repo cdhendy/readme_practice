@@ -4,4 +4,4 @@
 
 ### Fintech is cool
 
-check out my repos
+### **check out my repos**
